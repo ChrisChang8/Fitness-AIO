@@ -1,7 +1,7 @@
 # Fitness-AIO
 
 # Overview
-# The Fitness AI Assistant Webapp is a dynamic full-stack application designed to enhance your fitness journey. Leveraging data-driven features and AI technology, this webapp helps users calculate their one-rep max strength, provides personalized exercise recommendations, and offers comprehensive fitness-related information.
+The Fitness AI Assistant Webapp is a dynamic full-stack application designed to enhance your fitness journey. Leveraging data-driven features and AI technology, this webapp helps users calculate their one-rep max strength, provides personalized exercise recommendations, and offers comprehensive fitness-related information.
 
 # Features
 One-Rep Max Strength Calculation: Utilizes fitness data from Kaggle to accurately calculate users' one-rep max strength.
