@@ -1,0 +1,89 @@
+.calc-container{
+    width: 20rem;
+    height: 32rem;
+    padding: 20px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #ccc;
+    position: relative;
+    display: inline-block;
+}
+
+.calc-container:hover img{
+    opacity: 0.7;
+}
+
+
+  .input-container {
+    margin-bottom: 15px;
+    color:black;
+  }
+  
+  .input-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-container input, .input-container select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  .button-container button {
+    padding: 10px 15px;
+    background-color: aquamarine;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 10px;
+  }
+  
+  .button-container button:hover {
+    opacity: .6;
+  }
+
+  .info-container{
+    width: 20rem;
+    height: 32rem;
+    border: 2px solid rgb(232 232 232 / 93%);
+    border-radius: 10px;
+  }
+
+/**/
+.table-container {
+    border-collapse: collapse;
+    width: 20rem;
+    height: 32rem;
+}
+
+.table-container tr:first-child {
+  background-color: #000000; /* Yellow color for the first row */
+  color: white;
+}
+
+.table-container td {
+    border: 1px solid #a7a7a7;
+    padding: 8px;
+    text-align: center;
+    width: 60%; 
+}
+
+.table-container tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table-container td:first-child {
+    border-left: 1px solid #ddd;
+}
+
+.table-container td:last-child {
+    border-left: 1px solid #ddd;
+}

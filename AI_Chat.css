@@ -1,0 +1,10 @@
+.ai_chat {
+    border: 2px solid #ccc; /* Set border width and color */
+    border-radius: 10px; /* Add border radius for rounded corners */
+    padding: 20px; /* Add padding for spacing inside the chat box */
+    max-width: 880px; /* Set maximum width to limit the chat box width */
+    margin: 0 auto; /* Center the chat box horizontally */
+    overflow-y: auto; /* Enable vertical scroll if the content overflows */
+    height: 330px; /* Set a fixed height to enable scrolling */
+    margin-bottom: 20px;
+}
