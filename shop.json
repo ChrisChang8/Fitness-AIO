@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Pre-Workout",
+    "difficulty": "Easy",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./hero-gym.jpeg",
+    "equipment": "Gym Access"
+  },
+  {
+    "name": "Protien Shakes",
+    "difficulty": "Medium",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./hero-gym.jpeg",
+    "equipment": "Gym Access"
+  },
+  {
+    "name": "Belt",
+    "difficulty": "Hard",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./hero-gym.jpeg",
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Membership",
+    "difficulty": "Easy",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./hero-gym.jpeg",
+    "equipment": "Gym Access"
+  },
+  {
+    "name": "Food",
+    "difficulty": "Medium",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./hero-gym.jpeg",
+    "equipment": "None"
+  }
+]

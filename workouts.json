@@ -1,0 +1,63 @@
+[ 
+  {
+    "name": "Stretches",
+    "status": "LIVE on Website",
+    "detail": "No Equipment / Beginner",
+    "image": "./stretch.png"
+  },
+  {
+    "name": "Push-Pull-Legs",
+    "status": "LIVE on Website",
+    "detail": "Equipment / Fat Burn / Muscle Gain / Intermediate / Advanced",
+    "image": "./db.png"
+  },  
+  {
+    "name": "Calisthenics",
+    "status": "LIVE on Website",
+    "detail": "No Equipment / Fat Burn / Muscle Gain / Intermediate / Advanced",
+    "image": "./cal.png"
+  },   
+  {
+    "name": "Yoga",
+    "status": "In-Progress...",
+    "detail": "No Equipment / Fat Burn / Beginner / Intermediate",
+    "image": "./yoga.png"
+  },
+  {
+    "name": "HIIT",
+    "status": "In-Progress...",
+    "detail": "Equipment  / Fat Burn / Muscle Gain / Intermediate / Advanced",
+    "image": "./hit.png"
+  }, 
+  {
+    "name": "12-3-30",
+    "status": "LIVE on Website",
+    "detail": "Equipment / Fat Burn / Beginner",
+    "image": "./ttt.png"
+  },
+  {
+    "name": "Cardio",
+    "status": "In-Progress...",
+    "detail": "No Equipment / Fat Burn / Beginner",
+    "image": "./cardio.png"
+  },
+  {
+    "name": "Pilates",
+    "status": "In-Progress...",
+    "detail": "No Equipment / Fat Burn / Beginner / Intermediate",
+    "image": "./pilates.png"
+  },
+
+  {
+    "name": "Cross Fit",
+    "status": "In-Progress...",
+    "detail": "Equipment / Fat Burn / Muscle Gain / Intermediate / Advanced",
+    "image": "./cross.png"
+  },
+  {
+    "name": "Poses",
+    "status": "In-Progress...",
+    "detail": "No Equipment / Beginner",
+    "image": "./poses.png"
+  }
+]

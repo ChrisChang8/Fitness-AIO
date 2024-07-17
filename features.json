@@ -1,0 +1,39 @@
+
+
+[
+  {
+    "name": "Workouts",
+    "difficulty": "Easy",
+    "detail": "I found the 10 most popular workouts, check them out! ",
+    "image": "./workout.png",
+    "equipment": "Gym Access"
+  },
+  {
+    "name": "Tips",
+    "difficulty": "Medium",
+    "detail": "Useful facts and rules EVERYONE should know! Trust me, it's a quick read.",
+    "image": "./tips.png",
+    "equipment": "Gym Access"
+  },
+  {
+    "name": "Shop",
+    "difficulty": "Hard",
+    "detail": "Curious what Pre-Workout, Protien Powder, or Equipment people use?",
+    "image": "./shop.png",
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "AI",
+    "difficulty": "Easy",
+    "detail": "Your very own personalized gym trainer, ask it anything!",
+    "image": "./ai.png",
+    "equipment": "Gym Access"
+  },
+  {
+    "name": "Contact",
+    "difficulty": "Medium",
+    "detail": "Reach out to me if there's any question or things I should add!",
+    "image": "./contact.png",
+    "equipment": "None"
+  }
+]
